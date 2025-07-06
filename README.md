@@ -24,19 +24,24 @@ This app is designed with animated onboarding, interactive UI, and an expressive
 ## 📱 Screenshots
 
 ### 🚀 Onboarding Screen
-<img src="assets/screenshots/onboard.jpg" alt="Onboarding Screenshot" width="400"/>
+
+<img src="assets/screenshots/onboard.jpg" alt="Onboarding Screenshot" width="400" height="500"/>
 
 ### 🏠 Home Screen
-<img src="assets/screenshots/home.jpg" alt="Home Screenshot" width="400"/>
+
+<img src="assets/screenshots/home.jpg" alt="Home Screenshot" width="400" height="500"/>
 
 ### 🤖 AI Chat Bot
-<img src="assets/screenshots/chat.jpg" alt="Chat Bot Screenshot" width="400"/>
+
+<img src="assets/screenshots/chat.jpg" alt="Chat Bot Screenshot" width="400" height="500"/>
 
 ### 🌐 Translator Screen 1
-<img src="assets/screenshots/trans1.jpg" alt="Translate Screenshot1" width="400"/>
+
+<img src="assets/screenshots/trans1.jpg" alt="Translate Screenshot1" width="400" height="500"/>
 
 ### 🌐 Translator Screen 2
-<img src="assets/screenshots/trans2.jpg" alt="Translate Screenshot2" width="400"/>
+
+<img src="assets/screenshots/trans2.jpg" alt="Translate Screenshot2" width="400" height="500"/>
 
 ---
 
@@ -62,7 +67,7 @@ dependencies:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/ai-assistant-app.git
+git clone https://github.com/gautamrawat543/ChtBotAI.git
 cd ai-assistant-app
 ```
 
