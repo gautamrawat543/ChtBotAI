@@ -29,11 +29,11 @@ This app is designed with animated onboarding, interactive UI, and an expressive
 
 ### 🏠 Home Screen
 
-<img src="assets/screenshots/home.jpg" alt="Home Screenshot" width="400" height="300"/>
+<img src="assets/screenshots/home.jpg" alt="Home Screenshot" width="400" height="100"/>
 
 ### 🤖 AI Chat Bot
 
-<img src="assets/screenshots/chat.jpg" alt="Chat Bot Screenshot" width="400" height="300"/>
+<img src="assets/screenshots/chat.jpg" alt="Chat Bot Screenshot" width="400" height="50"/>
 
 ### 🌐 Translator Screen 1
 
