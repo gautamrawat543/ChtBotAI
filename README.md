@@ -25,23 +25,23 @@ This app is designed with animated onboarding, interactive UI, and an expressive
 
 ### 🚀 Onboarding Screen
 
-<img src="assets/screenshots/onboard.jpg" alt="Onboarding Screenshot" width="400" height="300"/>
+<img src="assets/screenshots/onboard.jpg" alt="Onboarding Screenshot" width="400"/>
 
 ### 🏠 Home Screen
 
-<img src="assets/screenshots/home.jpg" alt="Home Screenshot" width="400" height="300"/>
+<img src="assets/screenshots/home.jpg" alt="Home Screenshot" width="400"/>
 
 ### 🤖 AI Chat Bot
 
-<img src="assets/screenshots/chat.jpg" alt="Chat Bot Screenshot" width="400" height="300"/>
+<img src="assets/screenshots/chat.jpg" alt="Chat Bot Screenshot" width="400"/>
 
 ### 🌐 Translator Screen 1
 
-<img src="assets/screenshots/trans1.jpg" alt="Translate Screenshot1" width="400" height="300"/>
+<img src="assets/screenshots/trans1.jpg" alt="Translate Screenshot1" width="400"/>
 
 ### 🌐 Translator Screen 2
 
-<img src="assets/screenshots/trans2.jpg" alt="Translate Screenshot2" width="400" height="300"/>
+<img src="assets/screenshots/trans2.jpg" alt="Translate Screenshot2" width="400"/>
 
 ---
 
